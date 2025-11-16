@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sreegithub19/JavaScript-Applications.git"
+    "url": "git+https://github.com/aqwertyuiop48/JavaScript-Applications.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sreegithub19/JavaScript-Applications/issues"
+    "url": "https://github.com/aqwertyuiop48/JavaScript-Applications/issues"
   },
-  "homepage": "https://github.com/sreegithub19/JavaScript-Applications#readme",
+  "homepage": "https://github.com/aqwertyuiop48/JavaScript-Applications#readme",
   "dependencies": {
     "express": "^4.17.2",
     "nodemon": "^2.0.15",
